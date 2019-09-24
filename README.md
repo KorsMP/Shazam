@@ -1,1 +1,1 @@
-# Shazam
+# Shazam 1.0
